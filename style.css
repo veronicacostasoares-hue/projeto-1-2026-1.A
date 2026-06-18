@@ -9,3 +9,9 @@ color: azure;
 font-size: 15pt;
 
 }
+a{
+    width: 20px;
+    height: 10px; 
+    background-color: rgb(147, 71, 71);
+    border-radius: 5px;
+}
