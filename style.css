@@ -14,4 +14,12 @@ a{
     height: 10px; 
     background-color: rgb(147, 71, 71);
     border-radius: 5px;
+    margin: 10px;
+    padding: 14px;
+
+}
+
+.primiro_paragrafo{
+    border: 2px solid black;
+    border-radius: 5px;
 }
